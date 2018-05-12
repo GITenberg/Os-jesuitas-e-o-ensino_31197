@@ -1,0 +1,32 @@
+_repo: Os-jesuitas-e-o-ensino_31197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calógeras, João Pandiá
+    aliases:
+    - Calógeras, Pandiá
+    - Calogeras, Joao Pandia
+    - Pandiá Calógeras, João
+    birthdate: 1870
+    deathdate: 1934
+    gutenberg_agent_id: '35050'
+    url: http://www.gutenberg.org/2009/agents/35050
+description: ''
+gutenberg_issued: '2010-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31197'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcc 'LC'
+- !lcsh 'Jesuits -- Brazil -- History'
+- !lcsh 'Jesuits -- Education -- History'
+title: Os jesuitas e o ensino
+url: http://www.gutenberg.org/ebooks/31197
